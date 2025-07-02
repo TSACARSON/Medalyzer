@@ -41,3 +41,7 @@ main {
   text-align: center;
   max-height: 75%;
 }
+.container {
+  background-color: hsl(0, 0%, 24%);
+  height: 100vh;
+}
