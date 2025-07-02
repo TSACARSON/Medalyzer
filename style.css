@@ -1,8 +1,12 @@
 body {
-  color: #A8E6CF;
+  background-color: #A8E6CF;
 }
 h1 {
+  color:#F0F0F0
   text-align: center;
+}
+p {
+  color: #A0A0A0;
 }
 main {
   margin-left: 20px;
